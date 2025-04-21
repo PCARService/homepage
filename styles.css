@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Contrail+One&family=Special+Gothic+Expanded+One&display=swap');
+
+body
+{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 20em;
+}
+
+.titulo 
+{
+    color:#ffffff;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-size:32px;
+    text-align:center;
+}
+    
+.texto 
+{
+    color:#ffffff;
+    font-family: "Contrail One", sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    text-align:justify;
+    text-decoration: none;
+}
+
+.reproductor
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
