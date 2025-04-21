@@ -15,8 +15,13 @@ body
     text-align:center;
 }
     
-.texto 
-{
+.texto {
+    text-align: left;
+}
+.texto ul{ 
+    list-style: none;
+}
+.texto ul li a{
     color:#ffffff;
     font-family: "Contrail One", sans-serif;
     font-style: normal;
@@ -24,7 +29,6 @@ body
     text-align:justify;
     text-decoration: none;
 }
-
 .reproductor
 {
     display: flex;
