@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-pcar {
+    float: left;
+}
+.logo-pcar a img{
+    height: 4.3vw;
+    transition: .3s linear;
+}
+.logo-pcar:hover {
+    transform: scale(1.1);
+}
+
+.social {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 2%;
+    height: 1.5vw;
+}
+
+.wave {
+    width: 100%;
+}
+.wave-inv {
+    width: 100%;
+    transform: scaleY(-1);
+    position: absolute;
+}
+
+.services img {
+    height: 25vw;
+}
+
+.img-lf {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.img-rg {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly
+}

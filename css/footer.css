@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    width: 100%;
+    height: 20vw;
+    background: linear-gradient(to right, #0e0027e0, #340481e0);
+    padding: 8vw 2vw;
+}
