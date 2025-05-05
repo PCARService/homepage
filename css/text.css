@@ -68,7 +68,7 @@
     font-family: "horizon-regular", sans-serif;
     font-size: 4vw;
     color: #ffff;
-    text-shadow: 0 15px 0 #0f0c118a;
+    text-shadow: 0 .9vw 0 #0f0c118a;
     text-align: center;
     margin-top: 10%;
 }
@@ -76,7 +76,7 @@
     font-family: "codec-pro", sans-serif;
     font-size: 1.3vw;
     color: #ffff;
-    text-shadow: 0 5px 0 #0f0c118a;
+    text-shadow: 0 .28vw 0 #0f0c118a;
     text-align: center;
     margin-top: 2%;
     margin-bottom: 23%;
@@ -86,23 +86,23 @@
     float: left;
     text-align: right;
     color: #0f0c11;
-    width: 43%;
-    margin: 2%;
+    width: 50vw;
+    margin: 2vw;
 }
 .about h1 {
     font-family: "horizon-regular", sans-serif;
     font-size: 2vw;
-    text-shadow: 10px 10px #270b301a;
+    text-shadow: .48vw .48vw #270b301a;
 }
 .about h2 {
     font-family: "contrail-one", sans-serif;
     font-size: 1.5vw;
-    text-shadow: 7px 7px #270b301a;
+    text-shadow: .3vw .3vw #270b301a;
 }
 .about p {
     font-family: "codec-pro", sans-serif;
-    font-size: .9vw;
-    text-shadow: 5px 5px #270b301a;
+    font-size: 1vw;
+    text-shadow: .25vw .25vw #270b301a;
     line-height: 1.2vw;
 }
 
@@ -116,21 +116,42 @@
     font-family: "horizon-regular", sans-serif;
     font-size: 2.2vw;
     text-align: center;
-    text-shadow: 10px 10px #270b301a;
+    text-shadow: .5vw .5vw #270b301a;
 }
 .services h2 {
     font-family: "contrail-one", sans-serif;
     font-size: 1.5vw;
     text-align: center;
-    text-shadow: 7px 7px #270b301a;
+    text-shadow: .3vw .3vw #270b301a;
     margin-bottom: 5%;
 }
-.services div h3 {
-    float: left;
+
+.img-lf {
+    text-align: left;
+}
+.img-lf h3 {  
     font-family: "horizon-regular", sans-serif;
     font-size: 1.8vw;
-    text-align: left;
-    text-shadow: 9px 9px #270b301a;
+    text-shadow: .4vw .4vw #270b301a;
+}
+.img-lf p {
+    font-family: "codec-pro", sans-serif;
+    font-size: 1vw;
+    text-shadow: .25vw .25vw #270b301a;
+}
+
+.img-rg {
+    text-align: right;
+}
+.img-rg h3 {  
+    font-family: "horizon-regular", sans-serif;
+    font-size: 1.8vw;
+    text-shadow: .4vw .4vw #270b301a;
+}
+.img-rg p {
+    font-family: "codec-pro", sans-serif;
+    font-size: 1vw;
+    text-shadow: .25vw .25vw #270b301a;
 }
 
 .contact {

@@ -29,6 +29,7 @@
     width: 100%;
     transform: scaleY(-1);
     position: absolute;
+    left: 0;
 }
 
 .services img {
@@ -40,7 +41,6 @@
     align-items: center;
     justify-content: space-evenly;
 }
-
 .img-rg {
     display: flex;
     align-items: center;
