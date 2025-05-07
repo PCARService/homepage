@@ -16,8 +16,8 @@ body {
     height: 185vw;
     background-color: #ffffff;
     box-shadow: 0 0 0 1vw #ffffff;
-    padding: 100px 50px;
-    margin: none;
+    padding-top: 10vw;
+    padding-bottom: 10vw;
     position: relative;
 }
 

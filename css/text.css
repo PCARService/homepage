@@ -70,16 +70,16 @@
     color: #ffff;
     text-shadow: 0 .9vw 0 #0f0c118a;
     text-align: center;
-    margin-top: 10%;
+    margin-top: 28vh;
 }
 .start-text {
     font-family: "codec-pro", sans-serif;
-    font-size: 1.3vw;
+    font-size: 1.8vw;
     color: #ffff;
     text-shadow: 0 .28vw 0 #0f0c118a;
     text-align: center;
-    margin-top: 2%;
-    margin-bottom: 23%;
+    margin-top: 3vh;
+    margin-bottom: 45vh;
 }
 
 .about {
