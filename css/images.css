@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+@keyframes show-up {
+    from {
+        opacity: .3;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
 .logo-pcar {
     float: left;
 }
@@ -40,9 +49,13 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    animation-name: show-up;
+    animation-duration: 2s;
 }
 .img-rg {
     display: flex;
     align-items: center;
-    justify-content: space-evenly
+    justify-content: space-evenly;
+    animation-name: show-up;
+    animation-duration: 2s;
 }
